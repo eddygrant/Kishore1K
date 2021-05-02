@@ -51,7 +51,7 @@ I'm Kishore K.  I am Doing a  B.Tech in  Computer Science  at  ATME College Of E
 <p align="center">
   
    <a href="https://kishore1009.hashnode.dev/">
-    <img height=30 src="https://github.com/kishore100901/kishore100901/blob/master/scHk9tTaA.png"> 
+    <img height=30 src="https://github.com/Kishore1K/Kishore1K/blob/master/scHk9tTaA.png"> 
    </a>
 </p>
 
