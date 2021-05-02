@@ -33,7 +33,7 @@ I'm Kishore K.  I am Doing a  B.Tech in  Computer Science  at  ATME College Of E
 
    ### 🐱My Github stats:
  ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
 
 
 
