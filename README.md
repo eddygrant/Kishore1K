@@ -6,6 +6,7 @@ I'm Kishore K.  I am Doing a  B.Tech in  Computer Science  at  ATME College Of E
 - 💬 Ask me about Web development
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
+- <img align='right' src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="230">
 
   [![LINKEDIN](https://img.shields.io/badge/-KISHORE_K-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&color=0077B5)](https://www.linkedin.com/in/kishore1k/)   [![FACEBOOK](https://img.shields.io/badge/-KISHORE_K-000000?style=for-the-badge&logo=facebook&logoColor=ffffff&color=1877F2)](https://www.facebook.com/kishore.k.reddy2/)
   [![TWITTER](https://img.shields.io/badge/-KISHORE-000000?style=for-the-badge&logo=twitter&logoColor=ffffff&color=1DA1F2)](https://twitter.com/Kish08e/)
