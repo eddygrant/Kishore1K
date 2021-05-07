@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I'm Kishore K.  I am Doing a  B.Tech in  Computer Science  at  ATME College Of Engineering. 
+I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College Of Engineering](https://atme.in). 
 
 - 🔭 I’m currently learning Web development
 - 💬 Ask me about Web development
