@@ -12,7 +12,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   [![TWITTER](https://img.shields.io/badge/-KISHORE-000000?style=for-the-badge&logo=twitter&logoColor=ffffff&color=1DA1F2)](https://twitter.com/Kish08e/)
    [![GMAIL](https://img.shields.io/badge/-KISHORE-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&color=D14836)](mailto:reddykishore527@gmail.com) 
 
-
+<hr>
 - Languages I have used
 
   ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -22,6 +22,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   ![SCSS](https://img.shields.io/badge/-SASS-000000?style=flat&logo=SASS)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 
+<hr/>
 - Some of the technologies I have worked with
 
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -31,7 +32,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat&logo=visual-studio-code&logoColor=007acc)
   ![Jupyter](http://img.shields.io/badge/-Jupyter-000000?style=flat&logo=jupyter&logoColor=f37626)
   
-
+<hr/>
    ### 🐱My Github stats:
  ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=Kishore1K&show_icons=true&theme=radical)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kishore1K&layout=compact&text_color=daf7dc&bg_color=151515)
@@ -46,7 +47,7 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Kishore1K/count.svg" />
 </p>
-
+<hr/>
   ### Blogs 🌱:
 
 <p align="center">
@@ -56,7 +57,6 @@ I'm [Kishore K]().  I am Doing a  B.Tech in  Computer Science  at  [ATME College
 
 
 <h1 align='center'><i>Stay awesome!</i></h1>
-
 
 ### 😜Here's a Joke for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
